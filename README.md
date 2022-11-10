@@ -1,5 +1,5 @@
 ## Auto-Forward
-<p align="center">Auto Forward | Sebuah program untuk melalukan forward pesan di Telegram. Dapat di atur dengan trigger kustom, pengguna spesifik, tujuan pesan. Dibuat menggunakan Python dan Telethon.
+<p align="center">Sebuah program untuk melalukan forward pesan di Telegram. Dapat di atur dengan trigger kustom, pengguna spesifik, tujuan pesan. Dibuat menggunakan Python dan Telethon.
 
 ## Tutorial Instalasi
 <p align="center"> Silahkan dikoreksi jika ada kesalahan pada tutorial dibawah ini.
